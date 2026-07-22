@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Python+Developer;Flutter+Developer;Django+Developer;AI+Enthusiast;Always+Learning+New+Things"/>
 
-<img src="https://komarev.com/ghpvc/?username=Ajinkumar-project&label=Profile%20Views&color=0e75b6&style=flat" />
+<!-- <img src="https://komarev.com/ghpvc/?username=Ajinkumar-project&label=Profile%20Views&color=0e75b6&style=flat" /> -->
 
 </div>
 
@@ -85,88 +85,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ajinkumar-project&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajinkumar-project&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🎵 Flutter Music Player
-
-- Flutter
-- Audio Service
-- Beautiful UI
-- Local Music
-
-### 🛒 MobileTech Ecommerce Website
-
-- HTML
-- CSS
-- JavaScript
-- Django
-
-### 🤖 AI Coding Assistant
-
-Developing an AI coding assistant for developers.
-
-### 🌐 Django Authentication System
-
-- Login
-- Register
-- Shopping Cart
-- Responsive Design
-
----
-
-# 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://github.com/Ajinkumar-project">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
-
-# 📊 Profile Summary
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ajinkumar-project&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajinkumar-project&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ajinkumar-project&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajinkumar-project&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ajinkumar-project&theme=tokyonight)
-
----
 
 <div align="center">
 
