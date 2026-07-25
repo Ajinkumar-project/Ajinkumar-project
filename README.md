@@ -1,24 +1,127 @@
 <div align="center">
 
-# Hi 👋 I'm Ajin Kumar
+# Hi 👋, I'm Ajin Kumar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Python+Developer;Flutter+Developer;Django+Developer;AI+Enthusiast;Always+Learning+New+Things"/>
+### Software Developer • Full Stack Developer • Django Developer • Flutter Developer
 
-<!-- <img src="https://komarev.com/ghpvc/?username=Ajinkumar-project&label=Profile%20Views&color=0e75b6&style=flat" /> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Python+%7C+Django+Developer;Flutter+Developer;Java+%26+Spring+Boot+Learner;AI+Enthusiast;Open+to+Work"/>
+
+<p>
+
+🎯 **Open to Full-Time Software Developer Opportunities**
+
+📍 Kanyakumari, Tamil Nadu, India
+
+</p>
+
+[Portfolio](https://ajinkumar-portfolio.vercel.app)
+•
+[LinkedIn](https://linkedin.com/in/ajin-kumar-28421b286)
+•
+[GitHub](https://github.com/Ajinkumar-project)
+•
+<a href="mailto:ajinkumar.s2004@gmail.com">Email</a>
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-- 🎓 B.Tech Information Technology
-- 💻 Software Developer
-- 🌱 Currently learning **Java & Spring Boot**
-- 📱 Flutter Developer
-- 🌐 Django Developer
-- 🤖 Interested in Artificial Intelligence
-- 🚀 Love building real-world projects
+I'm a **B.Tech Information Technology graduate (2022–2026)** passionate about building modern web applications, mobile apps, and AI-powered solutions.
+
+I enjoy solving real-world problems through clean code and continuously improving my skills in backend development, full-stack engineering, and software architecture.
+
+### Currently
+
+- 🌱 Learning **Java & Spring Boot**
+- 💻 Building Full Stack Applications
+- 📱 Developing Flutter Apps
+- 🤖 Exploring Artificial Intelligence
+- 🚀 Open to Software Developer roles
+
+---
+
+# 🚀 Featured Projects
+
+## 🛒 MobileTech — Full Stack E-Commerce Platform
+
+Modern Django-based e-commerce application featuring authentication, shopping cart, search, admin dashboard and responsive UI.
+
+**Tech Stack**
+
+Python • Django • HTML • CSS • JavaScript • Bootstrap • SQLite
+
+🔗 Live Demo:
+https://mobiletech-production.up.railway.app/
+
+🔗 GitHub:
+https://github.com/Ajinkumar-project/MobileTech
+
+---
+
+## 🎵 Flutter Music Player
+
+A feature-rich local music player built using Flutter with playlist management, album artwork, and background playback.
+
+**Tech Stack**
+
+Flutter • Dart • Android
+
+🔗 GitHub
+
+https://github.com/Ajinkumar-project/Boycott-subscription
+
+---
+
+## 🤖 Ad Click Fraud Detection
+
+Machine Learning project that detects fraudulent advertisement clicks using feature engineering and predictive models.
+
+**Tech Stack**
+
+Python • Scikit-learn • Pandas • NumPy
+
+Live Demo
+
+https://ad-click-fraud-detection-eirz.onrender.com/
+
+GitHub
+
+https://github.com/Ajinkumar-project/AD-CLICK-FRAUD-DETECTION-
+
+---
+
+# 💼 Internship Experience
+
+### Python Full Stack Intern
+**Cadpoint** *(Dec 2025 – Jun 2026)*
+
+- Built Django web applications
+- Developed REST APIs
+- Worked with MySQL & SQLite
+- Used Git & GitHub for version control
+
+---
+
+### Web Development Intern
+**Technofly Solution**
+
+Worked on responsive frontend and backend web applications.
+
+---
+
+### Python Intern
+**E-Max Education**
+
+Improved Python programming and software development fundamentals.
+
+---
+
+### Python & AI Intern
+**Scope India**
+
+Worked on Python programming and Artificial Intelligence projects.
 
 ---
 
@@ -26,44 +129,65 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?tyle=flat-square&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+Python • Java • JavaScript • SQL • Dart
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+HTML5 • CSS3 • Bootstrap • Responsive Design
 
 ### Backend
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+Django • REST APIs
 
 ### Mobile
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+Flutter
+
+### Database
+
+MySQL • SQLite
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+Git
 
-### Design
+GitHub
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white)
+VS Code
+
+Android Studio
+
+Linux
+
+Postman
+
+XAMPP
+
+### AI
+
+Prompt Engineering
+
+Python Automation
+
+API Integration
+
+Machine Learning
 
 ---
 
-# 📊 GitHub Stats
+# 📜 Certifications
+
+- Python & Artificial Intelligence
+- Python Programming
+- Python Full Stack Development
+- Web Development
+- Django Essentials Workshop
+- UI/UX Design
+- Application Development Masterclass
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -73,23 +197,56 @@
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Ajinkumar-project&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajinkumar-project&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ajinkumar-project&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email**
+
+ajinkumar.s2004@gmail.com
+
+🌐 Portfolio
+
+https://ajinkumar-portfolio.vercel.app/
+
+💼 LinkedIn
+
+https://linkedin.com/in/ajin-kumar-28421b286
+
+🐙 GitHub
+
+https://github.com/Ajinkumar-project
+
+---
 
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+### ⭐ Open to Work
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4FF,100:7F00FF&height=120&section=footer"/>
+Passionate about building scalable software, learning modern technologies, and contributing to impactful products.
+
+**Thanks for visiting my profile!**
 
 </div>
