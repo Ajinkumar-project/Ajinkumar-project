@@ -75,7 +75,6 @@ focus: Python • Django • Flutter • Full Stack • AI Applications
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 
@@ -87,16 +86,9 @@ focus: Python • Django • Flutter • Full Stack • AI Applications
 
 <div align="center">
 
-<a href="https://github.com/Ajinkumar-project/MobileTech">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkumar-project&repo=MobileTech&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Ajinkumar-project/AD-CLICK-FRAUD-DETECTION-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkumar-project&repo=AD-CLICK-FRAUD-DETECTION-&theme=tokyonight&hide_border=true"/>
-</a>
-<br/>
-<a href="https://github.com/Ajinkumar-project/Boycott-subscription">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ajinkumar-project&repo=Boycott-subscription&theme=tokyonight&hide_border=true"/>
-</a>
+[![MobileTech](https://img.shields.io/badge/MobileTech-E--Commerce_Platform-00C4FF?style=for-the-badge&logo=django&logoColor=white)](https://github.com/Ajinkumar-project/MobileTech)
+[![Ad Click Fraud Detection](https://img.shields.io/badge/Ad_Click_Fraud_Detection-Machine_Learning-7F00FF?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Ajinkumar-project/AD-CLICK-FRAUD-DETECTION-)
+[![Boycott Sub](https://img.shields.io/badge/Boycott_Sub-Flutter_Music_Player-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Ajinkumar-project/Boycott-subscription)
 
 </div>
 
