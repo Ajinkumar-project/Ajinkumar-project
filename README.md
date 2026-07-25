@@ -28,7 +28,7 @@ status: 🟢 Open to Work
 focus: Python • Django • Flutter • Full Stack • AI Applications
 ```
 
-- 🎓 Pursuing **B.Tech in Information Technology** — CGPA 7.9/10
+- 🎓 Graduated with a **B.Tech in Information Technology** — CGPA 7.9/10
 - 💻 Full Stack Developer building with **Python, Django & Flutter**
 - 🤖 Exploring **AI Application Development** & Prompt Engineering
 - 🌱 Strengthening skills through real-world internships & projects
