@@ -244,7 +244,6 @@ Feb 2024 – Mar 2024    Python & AI Intern            @ Scope India, Thiruvanan
 <img src="https://raw.githubusercontent.com/Ajinkumar-project/Ajinkumar-project/output/github-contribution-grid-snake.svg" alt="contribution snake animation"/>
 </p>
 
-> ℹ️ **Note:** The snake animation above requires a one-time GitHub Actions setup in your profile repo (`Ajinkumar-project/Ajinkumar-project`). See the setup note at the bottom of this file.
 
 ---
 
