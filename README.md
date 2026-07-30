@@ -79,7 +79,7 @@ currently_learning: LLM-powered app development & scalable backend architecture
 
 **Backend & Database**
 <br/>
-<img src="https://skillicons.dev/icons?i=django,postman,mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=django,mysql,sqlite" />
 
 **Mobile**
 <br/>
