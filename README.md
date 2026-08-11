@@ -87,7 +87,7 @@ currently_learning: LLM-powered app development & scalable backend architecture
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,photoshop,premiere" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,photoshop,premiere" />
 
 </div>
 
